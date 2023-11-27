@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.GERGER{
+    display: flex;
+    /* background-color: aqua; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+body{
+    background-color: white !important;
+}
+
+.dark-mode{
+    background-color: #202C36 !important;
+    color: #fff !important;
+}
+
+
+.n{
+    width: 100%;
+}
